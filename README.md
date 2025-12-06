@@ -1,2 +1,2 @@
-# ALSWebsite-Libona-II
-ALS Website
+# ALSWebsite
+A Website for ALS
